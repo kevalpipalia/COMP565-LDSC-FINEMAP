@@ -1,0 +1,2 @@
+# COMP565-LDSC-FINEMAP
+Assignment 1 of COMP 565 Fall 2023.

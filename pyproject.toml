@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "comp565"
+version = "0.1.0"
+description = "dependencies for comp565 assignments and experiments."
+authors = ["Keval Pipalia <keval.pipalia009@yahoo.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+jupyterlab = "^4.0.6"
+pandas = "^2.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -6,9 +6,13 @@ authors = ["Keval Pipalia <keval.pipalia009@yahoo.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = ">=3.10,<=3.12"
 jupyterlab = "^4.0.6"
 pandas = "^2.1.0"
+scikit-learn = "^1.3.1"
+scipy = "^1.11.2"
+matplotlib = "^3.8.0"
+seaborn = "^0.12.2"
 
 
 [build-system]
